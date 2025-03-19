@@ -1,0 +1,5 @@
+opencv-python
+numpy==1.24.4
+cmake
+C:\Users\sonal\Downloads\dlib-19.24.99-cp312-cp312-win_amd64.whl
+face_recognition
